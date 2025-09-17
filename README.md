@@ -4,9 +4,9 @@
 
 ## Company Tech
 - [Stripe Tech Blocgs](https://increment.com/)
-- [Netflix](https://netflixtechblog.com/)
-- [Uber](https://eng.uber.com/)
-- [AirBnb](https://medium.com/airbnb-engineering)
+- [Netflix](https://netflixtechblog.com/) -> They go very deep into distributed systems, resilience, scalability, chaos engineering — exactly the kind of thinking FAANG interviews test.
+- [Uber](https://eng.uber.com/) -> Strong focus on real-time systems, high-scale microservices, and infra challenges.
+- [AirBnb](https://medium.com/airbnb-engineering) -> Great for data pipelines, experimentation platforms, and system evolution.
 - [Instagram](https://instagram-engineering.com/)
 - [DropBox](https://dropbox.tech/)
 - [Spotify](https://engineering.atspotify.com/)
